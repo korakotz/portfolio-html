@@ -1,0 +1,12 @@
+.textbox {
+    border: 2px solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+h1 {
+    line-height: 60px;
+}
+h2 {
+    line-height: 60px;
+    font-size: 28px;
+}
